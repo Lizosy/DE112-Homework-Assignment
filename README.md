@@ -6,7 +6,7 @@ This repository contains code solutions in the form of Jupyter notebooks for the
 **Lecture 1: Introduction to Computer Programming**
 ------------------
 - slide
-- 
+  
    *https://docs.google.com/presentation/d/1Fg9YHmXmgKV1sodFpNNs2WpOgv0BuFB2107xHCPTB5o/edit#slide=id.p1*
   
 - lap 1
