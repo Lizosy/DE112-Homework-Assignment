@@ -3,7 +3,7 @@ DE112-Homework-Assignment
 
 Lecture 1: Introduction to Computer Programming
 *https://docs.google.com/presentation/d/1Fg9YHmXmgKV1sodFpNNs2WpOgv0BuFB2107xHCPTB5o/edit#slide=id.p1*
-lap 1
+-lap 1
 *https://colab.research.google.com/drive/162Mg7omLG-t4bxdEknUrcejAY1znrJ_G?usp=sharing*
 Homework 1
 *https://colab.research.google.com/drive/13qODcrFEKmVl_Jke-w04girGvToaaswQ?usp=sharing*
