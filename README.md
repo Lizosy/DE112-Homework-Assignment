@@ -1,5 +1,6 @@
 DE112-Homework-Assignment
 ==========================
+This repository contains code solutions in the form of Jupyter notebooks for the homeworks  of  DE112. The course is taught by [Professor Napa Sae-Bae](https://www.linkedin.com/in/napa-sae-bae-262380b) who has provided the associated *course materials* and *slide lectures*
 
 
 **Lecture 1: Introduction to Computer Programming**
