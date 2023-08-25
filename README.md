@@ -1,15 +1,15 @@
 DE112-Homework-Assignment
 ==========================
-This repository contains code solutions in the form of Jupyter notebooks for the homeworks  of  DE112. The course is taught by [Professor Napa Sae-Bae](https://www.linkedin.com/in/napa-sae-bae-262380b) who has provided the associated *course materials* and *slide lectures*
+This repository contains code solutions in the form of Jupyter notebooks for the homeworks  of  DE112. The lectures is taught by [Professor Napa Sae-Bae](https://www.linkedin.com/in/napa-sae-bae-262380b) who has provided the associated *course materials* and *slide lectures*
 
 
 **Lecture 1: Introduction to Computer Programming**
 ------------------
-- slide
+- Slide
   
    *https://docs.google.com/presentation/d/1Fg9YHmXmgKV1sodFpNNs2WpOgv0BuFB2107xHCPTB5o/edit#slide=id.p1*
   
-- lap 1
+- Lap 1
 
    *https://colab.research.google.com/drive/162Mg7omLG-t4bxdEknUrcejAY1znrJ_G?usp=sharing*
    
@@ -23,7 +23,7 @@ This repository contains code solutions in the form of Jupyter notebooks for the
 **Lecture 2 - 3 : Statements, Variables, Data Type, input function**
 ------------------
 
-- slide
+- Slide
 
 *https://docs.google.com/presentation/d/1Fg9YHmXmgKV1sodFpNNs2WpOgv0BuFB2107xHCPTB5o/edit#slide=id.p1* 
 
