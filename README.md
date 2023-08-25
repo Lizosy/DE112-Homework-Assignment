@@ -25,23 +25,23 @@ This repository contains code solutions in the form of Jupyter notebooks for the
 
 - Slide
 
-*https://docs.google.com/presentation/d/1Fg9YHmXmgKV1sodFpNNs2WpOgv0BuFB2107xHCPTB5o/edit#slide=id.p1* 
+   *https://docs.google.com/presentation/d/1Fg9YHmXmgKV1sodFpNNs2WpOgv0BuFB2107xHCPTB5o/edit#slide=id.p1* 
 
 - Lab 2
   
-*https://colab.research.google.com/drive/1NjyegN0qAUW2rz04mwNp4iTuU6eCKW8x?usp=sharing*
+   *https://colab.research.google.com/drive/1NjyegN0qAUW2rz04mwNp4iTuU6eCKW8x?usp=sharing*
 
 - Homework 2
   
-*https://colab.research.google.com/drive/1u80fU4-eMZsqFQ_pYrQn5Z2NdA78TprB?usp=sharing*
+   *https://colab.research.google.com/drive/1u80fU4-eMZsqFQ_pYrQn5Z2NdA78TprB?usp=sharing*
 
 - Lab 3
 
-*https://colab.research.google.com/drive/1Oa3MLs2P6E0okyDqQhjdceq_zuZslX94?usp=sharing*
+   *https://colab.research.google.com/drive/1Oa3MLs2P6E0okyDqQhjdceq_zuZslX94?usp=sharing*
 
 - Homework 3
 
-*https://colab.research.google.com/drive/1L-E9Gkz3t3Rvn1DB7llLpyD0_ztCB9TB?usp=sharing*
+   *https://colab.research.google.com/drive/1L-E9Gkz3t3Rvn1DB7llLpyD0_ztCB9TB?usp=sharing*
 
 
 
