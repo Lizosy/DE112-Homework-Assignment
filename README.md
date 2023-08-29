@@ -43,6 +43,22 @@ This repository contains code solutions in the form of Jupyter notebooks for the
 
    *https://colab.research.google.com/drive/1L-E9Gkz3t3Rvn1DB7llLpyD0_ztCB9TB?usp=sharing*
 
+  
+**Lecture 4-6: Control flow statement**
+------------------
+
+- slide
+
+  *https://docs.google.com/presentation/d/1h7BFHqip8DEuBI-wrTX7TvOwKfxmOdkwZqk_PvLCUQg/edit*
+
+- lap 4
+
+  *https://colab.research.google.com/drive/1m3XyDj9xGkzTy_-kov61MSutFrg9uNCd*
+
+- Homework 4
+
+  *https://colab.research.google.com/drive/18S8dX50dpfUz-9PeDswafTYuGWdhqzrF?usp=sharing*
+
 
 
 
