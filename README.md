@@ -66,8 +66,7 @@ This repository contains code solutions in the form of Jupyter notebooks for the
   
   *https://colab.research.google.com/drive/1eV2C2XEmI8mSR7JnNif_B_LLhxEg03ZD?usp=sharing*
 
-
-Homework 5
+- Homework 5
 
    *https://colab.research.google.com/drive/1K0P9GydVhxG3CZ_-QmRkIPtosTEJzFQS?usp=sharing*
 
