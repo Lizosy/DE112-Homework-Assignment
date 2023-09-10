@@ -4,6 +4,7 @@ This repository contains code solutions in the form of Jupyter notebooks for the
 who has provided the associated *course materials* and *slide lectures*
 
 so if you want to see the answer you can use this https://nbviewer.org/ (because some file.ipynb can't preview on github)
+or you can dowload flie on in this repository (i will upload the answer file later.)
 
 
 **Lecture 1: Introduction to Computer Programming**
@@ -19,11 +20,6 @@ so if you want to see the answer you can use this https://nbviewer.org/ (because
 - Homework 1
 
    *https://colab.research.google.com/drive/13qODcrFEKmVl_Jke-w04girGvToaaswQ?usp=sharing*
-
-- Answer
-   **
-
-
 
 
 **Lecture 2 - 3 : Statements, Variables, Data Type, input function**
