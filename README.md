@@ -1,6 +1,8 @@
 DE112-Homework-Assignment
 ==========================
-This repository contains code solutions in the form of Jupyter notebooks for the homeworks  of  DE112. The lectures is taught by [Professor Napa Sae-Bae](https://www.linkedin.com/in/napa-sae-bae-262380b) who has provided the associated *course materials* and *slide lectures*
+This repository contains code solutions in the form of Jupyter notebooks for the homeworks  of  DE112. The lectures is taught by [Professor Napa Sae-Bae](https://www.linkedin.com/in/napa-sae-bae-262380b)
+who has provided the associated *course materials* and *slide lectures*
+
 so if you want to see the answer you can use this https://nbviewer.org/ (because some file.ipynb can't preview on github)
 
 
